@@ -50,7 +50,8 @@ body{
 .container{
 	background-image:url(containerbg.jpg);
 	background-attachment: fixed;
-	width: 80%;
+	background-repeat: no-repeat;
+	background-size: 100vw;
 	margin: auto;
 	padding: 30px;
 }
